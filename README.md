@@ -1,6 +1,6 @@
 # 🎮 CHIP-8C Emulator
 
-> A cycle-accurate CHIP-8C emulator built in C++17 — a computer engineering student's bridge between theory and practice.
+> A cycle-accurate CHIP-8C emulator built in C++17 — a computer engineering project to bridge theory and practice.
 
 ---
 
